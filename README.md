@@ -1,1 +1,3 @@
 # GAN_project_Satellite_Image_to_Image_Translation
+
+Implemented a GAN (Generative Adversarial Network) project for Satellite Image to Image Translation in a Jupyter Notebook. Utilized GAN architecture with generator and discriminator networks to learn the mapping between satellite images of different domains (e.g., day to night, summer to winter). Trained the GAN model on a large dataset of paired satellite images, optimizing the generator and discriminator simultaneously through adversarial training. Generated realistic and high-quality images in the target domain by transforming input images from the source domain. This project demonstrates the ability to effectively perform image translation tasks in the field of satellite imagery using GANs.
